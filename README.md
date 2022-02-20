@@ -9,4 +9,4 @@ I got all of the parts of the assignment done pulling the top 250 tv shows to a 
 Sprint 2: 
 Please have sqlite3 installed on your machine for proper usage, my project builds an incorrect data base, I really struggled to format and fit data along with writting the automated tests.
 
-Sprint 3: Using Dr.Santores tests and an adaptation of his work I have fixed the initial db issues and created new tables for this project to store popular shows, and the popular movies.
+Sprint 3: Again, please have all of the items stored with in requiremets.txt installed(requests,sqlite3,secrets). Using Dr.Santores tests and an adaptation of his work I have fixed the initial db issues and created new tables for this project to store popular shows, and the popular movies.
